@@ -1,0 +1,22 @@
+{
+  "google": {
+    "urlKey": "https://www.google.com.tr",
+    "headless": "true",
+    "elements": {
+      "test": "test",
+      "test1": "test1",
+      "arama": "/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input",
+      "buton": "/html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1]"
+    }
+  },
+  "twitter": {
+    "urlKey": "https://www.twitter.com",
+    "headless": "true",
+    "elements": {
+      "test": "test",
+      "test1": "test1",
+      "arama": "/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input",
+      "buton": "/html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1]"
+    }
+  }
+}

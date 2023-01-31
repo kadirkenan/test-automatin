@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "get alert": "alert('Hello World')"
+  }
+}
